@@ -7,3 +7,4 @@ __마크다운명령어는 그나마 쉬운거같아서 괜찮은데__
 [Linux명령어](http://www.mireene.com/webimg/linux_tip1.htm)
 <br>~~열심히 하려고하는데 어디서부터해야하는지..~~<br>
 ###에헴
+### 오호라~!
