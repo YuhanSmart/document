@@ -5,5 +5,5 @@ __마크다운명령어는 그나마 쉬운거같아서 괜찮은데__
 <br>[네이버](www.naver.com)<br>
 [vi사용법](http://mrkzet.tistory.com/23)<br>
 [Linux명령어](http://www.mireene.com/webimg/linux_tip1.htm)
-<br>==열심히 하려고하는데 어디서부터해야하는지..==<br>
+<br>~~열심히 하려고하는데 어디서부터해야하는지..~~<br>
 ###에헴
